@@ -635,18 +635,20 @@ nav{
   }
 
   .circle {
-    width: 30rem;
-    height: 30rem;
-    top: 10rem;
-    right: 0rem;
+    width: 40rem;
+    height:40rem;
+    top: 8rem;
+    left: 3rem;
   }
 
   .beaut {
-    left: 0rem;
+    width: 45rem;
+    left: -7.3rem;
   }
 
   /* Down Arrow */
   .fa-angle-down {
+    padding-top: 0.5rem;
     font-size: 2rem;
   }
 
